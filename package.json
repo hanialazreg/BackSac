@@ -1,0 +1,24 @@
+{
+  "name": "backsac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanialazreg/BackSac.git"
+  },
+  "author": "hania lazreg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanialazreg/BackSac/issues"
+  },
+  "homepage": "https://github.com/hanialazreg/BackSac#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
